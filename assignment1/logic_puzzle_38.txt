@@ -1,0 +1,9 @@
+Do you know Sirs Kiana, Jaylah and Bria?
+Sir Ensley said: "at most one of Sir Kiana, Sir Lillie, Sir Marceline, Sir Mikaela, I, Sir Galilea and Sir Jazmine is a Knave."
+Sir Mercy said: "at least one of Sir Lillie, Sir Marceline, Sir Kiana, Sir Ensley and Sir Mikaela is a Knave."
+Sir Marceline said: "exactly one of us is a Knave."
+Sir Ensley said: "at most one of Sir Kiana and I is a Knave."
+Sir Ensley said: "at least one of us is a Knave."
+Sir Marceline said: "exactly one of Sir Kiana, Sir Marceline and Sir Lillie is a Knave."
+Sir Mikaela said: "Sir Marceline, Sir Lillie, Sir Kiana or Sir Mikaela is a Knave."
+Sir Kiana said: "at most one of us is a Knave."

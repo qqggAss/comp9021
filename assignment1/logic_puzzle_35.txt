@@ -1,0 +1,7 @@
+Sir Katelyn said: "at most one of Sir Giana, Sir Cadence and I is a Knave." Sir Rivka said: "at most one of us is a Knight." Sir Mavis said: "Sir Cadence or I is a Knight."
+
+
+Tell me about Sirs Bellamy, Katelyn and Ila, amongst others!
+
+
+Sir Giana said: "exactly one of Sir Cadence, I and Sir Katelyn is a Knight." Sir Giana said: "Sir Cadence or I is a Knight." Sir Rivka said: "exactly one of us is a Knave." Sir Katelyn said: "exactly one of Sir Ila, Sir Rivka, I, Sir Mavis, Sir Cadence and Sir Giana is a Knave."

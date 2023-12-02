@@ -1,0 +1,4 @@
+Sir Remy said: "exactly one of us is a Knave," with confidence.
+Sir Dior angrily added that "all of us are Knights," which might be true.
+Also, "at most one of Sir Lorelai and Sir Dior is a Knave," is what Sir Remy added.
+Sir Remy concluded that "at least one of us is a Knight," but is that true?

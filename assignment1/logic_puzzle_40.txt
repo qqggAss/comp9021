@@ -1,0 +1,34 @@
+
+
+Sir Iyla said: "Sir Lacey, Sir Milana, Sir Iyla, Sir Andi, Sir Aya, Sir Leilany, Sir Milena, Sir Hana or Sir Giuliana is a Knight."
+
+
+
+Sir Giuliana said: "Sir Aya, Sir Milana, Sir Hana, Sir Iyla, Sir Lacey, Sir Andi, Sir Milena or I is a Knight."
+
+
+
+Sir Adele said: "at least one of us is a Knave."
+
+
+
+Sir Adele said: "at most one of Sir Aya, Sir Iyla and I is a Knave."
+
+
+
+Sir Aya said: "I, Sir Leilany, Sir Iyla, Sir Milena, Sir Lacey, Sir Giuliana, Sir Hana, Sir Andi or Sir Milana is a Knave."
+
+
+Sir Milana said: "Sir Aya or I is a Knight."
+
+
+Sir Milena said: "exactly one of us is a Knight."
+
+
+Sir Adele said: "at least one of us is a Knight."
+
+
+Sir Hunter said: "at least one of us is a Knave."
+
+
+Sir Milana said: "at most one of Sir Aya, I, Sir Iyla, Sir Milena, Sir Leilany, Sir Giuliana, Sir Hana, Sir Andi, Sir Lacey, Sir Adele and Sir Saoirse is a Knave."

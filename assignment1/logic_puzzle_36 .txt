@@ -1,0 +1,27 @@
+Sir Novalee said: "Sir Kara, Sir Kai, Sir Jovie, Sir Kamiyah, Sir Alena and I are Knights."
+
+
+Sir Kai said: "at least one of us is a Knight."
+
+
+Sir Novalee said: "all of us are Knights."
+
+
+Sir Alena said: "at most one of us is a Knave."
+
+
+Sir Kara said: "Sir Kai, Sir Kamiyah, Sir Jovie, I and Sir Alena are Knights."
+
+
+Do not forget Sir Baylee!
+
+
+Sir Jovie said: "I, Sir Kara, Sir Kamiyah or Sir Kai is a Knave."
+
+
+Sir Elliot said: "I am a Knight."
+
+
+Sir Novalee said: "at most one of us is a Knight."
+
+

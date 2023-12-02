@@ -1,0 +1,7 @@
+Sir Jolie said: "at most one of Sir Jolie and Sir Justice is a Knave."
+Sir Joelle said: "exactly one of us is a Knave."
+Sir Theodora said: "at most one of us is a Knight."
+Sir Joelle said: "at most one of Sir Jolie, Sir Justice and I is a Knave."
+Sir Kinslee said: "at most one of us is a Knight."
+Sir Dani said: "at least one of us is a Knave."
+Oh, I forgot about Sir Roselyn!

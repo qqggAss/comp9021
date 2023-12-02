@@ -1,0 +1,7 @@
+Sir Erin said: "exactly one of us is a Knight."
+"I am a Knight," is what Sir Journi added.
+Then Sir Erin said that "at least one of Sir Journi and Sir Sasha is a Knight,"
+which sounded about right.
+Sir Erin added: "exactly one of Sir Journi and Sir Sasha is a Knight."
+Finally, "at most one of us is a Knave," is what Sir Journi concluded.
+Right or wrong?

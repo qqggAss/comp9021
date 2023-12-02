@@ -1,0 +1,8 @@
+"At most one of us is a Knight," is what Sir Coraline said.
+"I am a Knight," is what Sir Bridget said.
+"At least one of Sir Murphy, Sir Thalia and Sir Selene
+is a Knave," is what Sir Coraline said.
+"At most one of Sir Thalia, Sir Murphy and
+ I is a Knight," is what Sir Alaiya said.
+"Sir Selene, Sir Alaiya, Sir Murphy, Sir Thalia or 
+I is a Knight," is what Sir Bridget said.

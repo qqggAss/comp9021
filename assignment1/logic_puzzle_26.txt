@@ -1,0 +1,7 @@
+Sir Karla said: "Sir Zaylee, Sir Keilani, Sir Jamie, Sir Monica and Sir Zahra are Knights."
+And Sir Jamie said: "at least one of us is a Knave."
+What else? "At most one of Sir Zaylee and Sir Keilani is a Knight," is what Sir Monica said.
+What else?
+"Exactly one of Sir Zaylee and I is a Knave," was said by Sir Karla. 
+Sir Monica thinks that "at most one of Sir Zaylee, Sir Keilani and I is a Knight,"
+but maybe not.

@@ -1,0 +1,6 @@
+Sir Marina said: "Sir Ashlyn or Sir Ezra is a Knave."
+Sir Ashlyn said: "I am a Knight."
+Sir Sky said: "at most one of us is a Knave."
+Anyone knows anout Sirs Marina, Ezra and Melany?
+Sir Ashlyn said: "I, Sir Ezra, Sir Florence or Sir Sky is a Knight."
+Sir Ezra said: "exactly one of us is a Knave."

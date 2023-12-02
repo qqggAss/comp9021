@@ -1,0 +1,24 @@
+Sir Jessie said: "at most one of Sir Cleo,
+
+ Sir Aubrie, Sir Ramona, Sir Jaylani, I,
+
+ Sir Berkley and Sir Paulina is a Knave."
+
+
+Sir Averi said: "at least one of Sir Berkley, 
+
+Sir Jessie, Sir Aubrie, Sir Cleo and Sir Ramona is a Knave."
+Sir Aubrie said: "exactly one of us is a Knave."
+
+Sir Jaylani said: "at most one of Sir Ramona and
+ I is a Knave."
+Sir Chana exists.
+Sir Jessie said: "at least one of us
+ is a Knave."
+Also exists, Sir Madisyn.
+Sir Aubrie said: "exactly one of Sir 
+Aubrie, Sir Cleo and Sir Ramona is a Knave."
+Sir Berkley said: "Sir Cleo, Sir Ramona,
+ Sir Berkley or Sir Aubrie is a Knave."
+Sir Ramona said: "at most one of us is
+ a Knave."
